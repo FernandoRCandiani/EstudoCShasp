@@ -1,0 +1,14 @@
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\bin\Debug\net7.0\SegundoProjeto.exe
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\bin\Debug\net7.0\SegundoProjeto.deps.json
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\bin\Debug\net7.0\SegundoProjeto.runtimeconfig.json
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\bin\Debug\net7.0\SegundoProjeto.dll
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\bin\Debug\net7.0\SegundoProjeto.pdb
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.AssemblyInfo.cs
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.dll
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\refint\SegundoProjeto.dll
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.pdb
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\SegundoProjeto.genruntimeconfig.cache
+C:\Users\fernando.candiani\Desktop\C#\SegundoProjeto\SegundoProjeto\obj\Debug\net7.0\ref\SegundoProjeto.dll
