@@ -1,0 +1,15 @@
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\bin\Debug\net8.0\Produtos.exe
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\bin\Debug\net8.0\Produtos.deps.json
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\bin\Debug\net8.0\Produtos.runtimeconfig.json
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\bin\Debug\net8.0\Produtos.dll
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\bin\Debug\net8.0\Produtos.pdb
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\obj\Debug\net8.0\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\obj\Debug\net8.0\Produtos.AssemblyInfoInputs.cache
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\obj\Debug\net8.0\Produtos.AssemblyInfo.cs
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\obj\Debug\net8.0\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\obj\Debug\net8.0\Produtos.sourcelink.json
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\obj\Debug\net8.0\Produtos.dll
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\obj\Debug\net8.0\refint\Produtos.dll
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\obj\Debug\net8.0\Produtos.pdb
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\obj\Debug\net8.0\Produtos.genruntimeconfig.cache
+C:\Users\fernando.candiani\Desktop\C#\Produtos\Produtos\obj\Debug\net8.0\ref\Produtos.dll
